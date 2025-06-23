@@ -12,3 +12,4 @@
         <img width="850px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wogikaze&theme=github">
     </div>
 </div>
+<hr>
