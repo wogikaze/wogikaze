@@ -13,4 +13,7 @@
     </div>
 </div>
 <hr>
-<img alt="VIE certificate" width="150px" src="./Certificate of Completion for Virtual International Education_image.png">
+<div style="positoin:grid ">
+  <img alt="VIE certificate" width="150px" src="./Certificate of Completion for Virtual International Education_image.png">
+  <img alt="QA4U certificate" width="150px" src="./QA4U.png">
+</div>
