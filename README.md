@@ -16,4 +16,5 @@
 <div style="positoin:grid ">
   <img alt="VIE certificate" width="150px" src="./Certificate of Completion for Virtual International Education_image.png">
   <img alt="QA4U certificate" width="150px" src="./QA4U.png">
+  <img alt="Sydney Tour" width="150px" src="./Sydney.png">
 </div>
