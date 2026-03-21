@@ -1,20 +1,80 @@
-# I'm wogikaze!
-
-<p>
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/wogikaze?style=social" />
-  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCqakJr-BWgsO6bUrG2nKCZw?style=social" />
+<h1 align="center">Hi, I'm wogikaze 👋</h1>
+<p align="center">
+  University Student / Programming / Compilers / Web / WASM
 </p>
 
-<div style="positoin:grid">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wogikaze&layout=compact&show_icons=true" />
-  <img alt="GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=wogikaze&show_icons=ture" />
-    <div>
-        <img alt="commit status" width="850px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wogikaze&theme=github">
-    </div>
-</div>
-<hr>
-<div style="positoin:grid ">
-  <img alt="VIE certificate" width="150px" src="./Certificate of Completion for Virtual International Education_image.png">
-  <img alt="QA4U certificate" width="150px" src="./QA4U.png">
-  <img alt="Sydney Tour" width="150px" src="./Sydney.png">
-</div>
+<p align="center">
+  <a href="https://twitter.com/wogikaze">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/wogikaze?style=social" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCqakJr-BWgsO6bUrG2nKCZw">
+    <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCqakJr-BWgsO6bUrG2nKCZw?style=social" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wogikaze&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+## About me
+
+- University student in Japan
+- Interested in compilers, programming languages, WASM, web apps, and developer tools
+- Building projects with Rust, TypeScript, Node.js, and Bun
+- Exploring ideas for language design, PKM, and AI-assisted tools
+
+---
+
+## Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=wogikaze&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wogikaze&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img width="850" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wogikaze&theme=tokyonight" alt="commit status" />
+</p>
+
+---
+
+## Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,ts,js,nodejs,bun,react,html,css,git,github,vscode" />
+</p>
+
+---
+
+## Featured interests
+
+- Compiler implementation
+- Language design for humans and LLMs
+- WebAssembly / WASI / Component Model
+- Knowledge management tools
+- UI / editor experiments
+
+---
+
+## Gallery
+
+<p align="center">
+  <img alt="VIE certificate" width="180" src="./images/vie-certificate.png" />
+  <img alt="QA4U certificate" width="180" src="./images/qa4u.png" />
+  <img alt="Sydney Tour" width="180" src="./images/sydney.png" />
+</p>
+
+---
+
+## Links
+
+- X (Twitter): [@wogikaze](https://twitter.com/wogikaze)
+- YouTube: [channel](https://www.youtube.com/channel/UCqakJr-BWgsO6bUrG2nKCZw)
+
+---
+
+<p align="center">
+  Thanks for visiting my profile!
+</p>
