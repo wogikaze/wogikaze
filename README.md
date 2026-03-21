@@ -30,12 +30,16 @@
 ## Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=wogikaze&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wogikaze&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img height="160" src="./images/stats.svg" alt="GitHub Stats" />
+  <img height="160" src="./images/top-langs.svg" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img width="850" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wogikaze&theme=tokyonight" alt="commit status" />
+  <img height="160" src="./images/wakatime.svg" alt="WakaTime" />
+</p>
+
+<p align="center">
+  <img width="850" src="./images/trophy.svg" alt="Trophy" />
 </p>
 
 ---
